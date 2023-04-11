@@ -1,6 +1,0 @@
-name = "cf-worker"
-main = "src/index.ts"
-compatibility_date = "2023-04-11"
-
-[vars]
-API_TOKEN = "e094060e494a1583e7473136e23648c2ff17f5a4"
